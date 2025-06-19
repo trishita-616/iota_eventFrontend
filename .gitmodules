@@ -1,0 +1,3 @@
+[submodule "iota_eventFrontend"]
+	path = iota_eventFrontend
+	url = https://github.com/trishita-616/iota_eventFrontend.git
